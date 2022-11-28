@@ -5,5 +5,5 @@ title: cv
 description: Mind and Hand. 
 nav: true
 nav_order: 4
-cv_pdf: example_pdf.pdf
+cv_pdf: Huang_Xiaoyu_CV.pdf
 ---
