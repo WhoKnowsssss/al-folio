@@ -9,22 +9,29 @@
 - title: Education
   type: time_table
   contents:
-    - title: B.S. Student, Computer Engineering
-      institution: Georgia Institute of Technology, Atlanta
-      year: Expected 2023
+    - title: Ph.D. Student, Mechanical Engineering
+      institution: UC Berkeley
+      year: Expected 2028
+      description:
+        - "GPA: 4.0"
+    - title: B.S. in Computer Engineering, Minor in AE, Robotics
+      institution: Georgia Institute of Technology
+      year: 2019-2023
       description:
         - "GPA: 4.0"
 
 - title: Honors and Awards
   type: time_table
   contents:
-  contents:
+    - title: Berkeley Fellowship
+      year: 2023
+      description: Merit-based fellowship for year of 2023-2024
     - title: President's Undergraduate Research Award
       year: 2021
       description: Selected based on undergraduate research quality and outcome
-    - title: Faculty Honors
-      year: Fall 2019-Spring 2022
-      description: Semester with 4.0 GPA and no withdrawal
+    - title: ECE Senior Scholar Award
+      year: 2023
+      description: Highest Honor of ECE graduates
     
 
 - title: Experience
@@ -32,14 +39,14 @@
   contents:
     - title: Undergraduate Researcher
       institution: Georgia Institute of Technology
-      year: 08/2021-current
+      year: 08/2021-05/2023
       description:
         - Worked on mobile manipulation under <a href="https://faculty.cc.gatech.edu/~dbatra/">Prof. Dhruv Batra</a>
         - Worked on DNN accelerator scheduling under <a href="https://www.ece.gatech.edu/faculty-staff-directory/tushar-krishna">Prof. Tushar Krishna</a>
         
     - title: Visiting Researcher
       institution: University of California, Berkeley
-      year: 05/2022-current
+      year: 05/2022-09/2022
       description:
         - Worked on legged robots under <a href="https://me.berkeley.edu/people/koushil-sreenath/">Prof. Koushil Sreenath</a>
 
@@ -55,16 +62,16 @@
       description:
         - Hosted weekly TA office hours to answer questions and help students on their labs. 
 
+- title: Professional Service
+  type: list
+  contents: 
+    - title: Reviewer for IROS 2023
 
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Generalizable learning on legged robots
+    - title: Learning on legged robots
       items: 
-        - Robust and generalizable control policy with RL, IL, or other learning methods. 
-        - Depolyable on real-world legged robots via domain randomization/adaptation, etc. 
-    - title: Fulfilling safety requirements for learned policy. 
-      items:
-        - Incorporating optimal control ideas (CBFs? Reachability set?) with fast computation speed. 
-
+        - I am interested in developing scalable learning algorithms for legged robots to work in challenging real-world scenarios. 
+        - My current research focus is on robust locomotion and solving various loco-manipulation tasks. 
