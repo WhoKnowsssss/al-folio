@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My heart is in the work. 
+description: Let there be light. 
 years: [2024, 2023, 2022]
 nav: true
 nav_order: 1

@@ -9,8 +9,8 @@ profile:
   image: photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>56 W Peachtree St NW</p>
-    <p>Atlanta, Georgia 30308</p>
+    <p>1102 Etcheverry Hall, 2521 Hearst Ave</p>
+    <p>Berkeley, CA 94709</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
