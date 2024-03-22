@@ -17,8 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello there! I am a senior Undergraduate student at Georgia Institute of Technology. I major in Computer Engineering, with minors in Aerospace Engineering and Robotics. 
+Hello there! I am a first year PhD student at UC Berkeley, advised by Prof. Koushil Sreenath. 
 
-I study robotics learning. My research interests are mainly in legged robotics, deep reinforcement learning (RL), and safety in RL. 
+I study robotics learning. My research interests are in the intersection of legged robotics and deep reinforcement learning, with the hope of enabling legged robots to perform a variety of useful tasks optimally and scalably. 
+
+Before coming to UC Berkeley, I received my B.S. in Computer Engineering from Georgia Institute of Technology, where I was fortunate to be advised by Prof. Dhruv Batra and Prof. Tushar Krishna. 
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

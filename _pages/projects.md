@@ -5,7 +5,7 @@ permalink: /projects/
 description: Let the wind of freedom blows. 
 nav: true
 nav_order: 2
-display_categories: [Reinforcement Learning, Aviation]
+display_categories: [Aviation]
 horizontal: false
 ---
 
