@@ -63,7 +63,7 @@
         - Hosted weekly TA office hours to answer questions and help students on their labs. 
 
 - title: Professional Service
-  type: list
+  type: nested_list
   contents: 
     - title: Reviewer for IROS 2023
 
