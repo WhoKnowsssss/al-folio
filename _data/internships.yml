@@ -1,0 +1,20 @@
+- title: Internships
+  type: time_table
+  contents:
+    - title: Applied Scientist Intern
+      institution: Amazon, FAR
+      year: 06/2025-Current
+      description:
+        - Applied character animation techniques to enable humanoid robots to perform complex tasks in real-world environments.
+
+    - title: Roboticist Intern
+      institution: The AI Institute
+      year: 08/2024-01/2025
+      description:
+        - Developed diffusion-based control methods for physics-based character animation under <a href="https://www.linkedin.com/in/farbod-farshidian-b8b39971/">Dr. Farbod Farshidian</a>.
+
+    - title: Research Intern
+      institution: Tencent, IEG AI Research Lab
+      year: 05/2021-08/2021
+      description:
+        - Developed multi-agent game AI for a 3D first-person shooting game.
