@@ -117,13 +117,20 @@
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
           {%- endif -%}
-          {%- if entry.year -%}
+          {%- assign entryyear = "" -%}
+          {%- if entry.year and entry.hide_year != "true" -%}
             {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
           {%- endif -%}
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
-          <div class="periodical">
+          <div class="periodical{% if entry.venue_highlight %} venue-highlight{% endif %}">
             {{ periodical | strip }}
           </div>
+          {% if entry.award %}
+          <div class="publication-award">{{ entry.award | escape }}</div>
+          {% endif %}
+          {% if entry.award_secondary %}
+          <div class="publication-award">{{ entry.award_secondary | escape }}</div>
+          {% endif %}
         {%- endif %}
         
           <!-- Links/Buttons -->

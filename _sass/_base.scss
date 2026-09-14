@@ -518,6 +518,15 @@ footer.sticky-bottom {
           border: 1px solid var(--global-theme-color);
         }
       }
+      .venue-highlight {
+        font-weight: 700;
+        color: var(--global-theme-color);
+      }
+      .publication-award {
+        margin-top: 0.25rem;
+        font-weight: 700;
+        color: var(--global-theme-color);
+      }
       .title {
         font-weight: bolder;
       }
